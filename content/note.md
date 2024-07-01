@@ -7,7 +7,8 @@ tags:
     - タグ
 draft: true
 %%公開するか否か%%
-date: 公開日YYYY-MM-DD形式
+date: 2024-07-01
+%%公開日付YYYY-MM-ddフォーマット%%
 ---
 
 The rest of your content lives here. You can use **Markdown** here :)
