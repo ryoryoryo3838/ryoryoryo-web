@@ -6,9 +6,7 @@ aliases:
 tags:
     - タグ
 draft: true
-%%公開するか否か%%
 date: 2024-07-01
-%%公開日付YYYY-MM-ddフォーマット%%
 ---
 
 The rest of your content lives here. You can use **Markdown** here :)
